@@ -2,7 +2,7 @@
 
 and welcome to my [GitHub](https://github.com) profile!
 
-## About me
+## 🐼 About me
   - under 20 years old
   - living in austria
   - CEO of [Keomu Entertainment](https://keomu.com)
@@ -17,5 +17,5 @@ and welcome to my [GitHub](https://github.com) profile!
   - C/C#/C++
   - React/Vue/Nuxt
     
-## How to reach me:
+## 📖 How to reach me:
   - join my [Discord server](https://discord.gg/MMH4rpk)
