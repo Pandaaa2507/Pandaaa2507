@@ -7,6 +7,7 @@ and welcome to my [GitHub](https://github.com) profile!
   - living in austria
   - CEO of [Keomu Entertainment](https://keomu.com)
   - love playing games & watching anime
+  - friendly person :)
     
 ## 🔭 I’m currently working on
   - Panda v2.0.0 (Discord Bot)
