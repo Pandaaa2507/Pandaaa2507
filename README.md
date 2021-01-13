@@ -5,7 +5,7 @@ and welcome to my [GitHub](https://github.com) profile!
 ## 🐼 About me
   - under 20 years old
   - living in austria
-  - CEO of [Keomu Entertainment](https://keomu.com)
+  - Owner of [Keomu](https://keomu.com)
   - love playing games & watching anime
   - friendly person :)
     
