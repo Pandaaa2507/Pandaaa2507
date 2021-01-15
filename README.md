@@ -10,7 +10,7 @@ and welcome to my [GitHub](https://github.com) profile!
   - friendly person :)
     
 ## 🔭 I’m currently working on
-  - Panda v2.0.0 (Discord Bot)
+  - Kuma v1.0.0 (Discord Bot)
   - a discord.js framework
   - something secret
     
