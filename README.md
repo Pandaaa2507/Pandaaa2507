@@ -3,7 +3,6 @@
 and welcome to my [GitHub](https://github.com) profile!
 
 ## 🐼 About me
-  - under 20 years old
   - living in austria
   - Owner of [Keomu](https://keomu.com)
   - love playing games & watching anime
