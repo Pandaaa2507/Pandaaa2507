@@ -21,5 +21,4 @@ and welcome to my [GitHub](https://github.com) profile!
   - join my [Discord server](https://discord.gg/MMH4rpk)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandaaa2507&layout=compact&theme=tokyonight)
-<br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=pandaaa2507&theme=tokyonight)
