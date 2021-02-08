@@ -14,6 +14,7 @@ and welcome to my [GitHub](https://github.com) profile!
   - something secret
     
 ## 🌱 I’m currently learning
+  - Go
   - C/C#
   - React/Vue/Nuxt
     
