@@ -9,7 +9,7 @@ and welcome to my [GitHub](https://github.com) profile!
   - friendly person :)
     
 ## 🔭 I’m currently working on
-  - Kuma v1.0.0 (Discord Bot)
+  - [Kuma](https://github.com/KumaaaBot) (Discord Bot)
   - a discord.js framework
   - something secret
     
