@@ -4,7 +4,7 @@ and welcome to my [GitHub](https://github.com) profile!
 
 ## 🐼 About me
   - living in austria
-  - founder of [Keomu](https://keomu.com)
+  <!-- - founder of [Keomu](https://keomu.com) -->
   - love playing games & watching anime
   - friendly person :)
     
