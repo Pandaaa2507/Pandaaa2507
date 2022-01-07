@@ -9,14 +9,9 @@ and welcome to my [GitHub](https://github.com) profile!
   - friendly person :)
     
 ## 🔭 I’m currently working on
-  - [Kuma](https://github.com/KumaaaBot) (Discord Bot)
-  - a discord.js framework
-  - something secret
-    
-## 🌱 I’m currently learning
-  - Go
-  - C/C#
-  - React/Vue/Nuxt
+  <!-- - [Kuma](https://github.com/KumaaaBot) (Discord Bot) -->
+  <!-- - a discord.js framework -->
+  - a process manager ([PMGO2](https://github.com/Pandaaa2507/PMGO2))
     
 ## 📖 How to reach me:
   - join my [Discord server](https://discord.gg/MMH4rpk)
