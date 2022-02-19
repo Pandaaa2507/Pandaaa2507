@@ -7,11 +7,6 @@ and welcome to my [GitHub](https://github.com) profile!
   - love playing games & watching anime
   - friendly person :)
     
-## 🔭 I’m currently working on
-  <!-- - [Kuma](https://github.com/KumaaaBot) (Discord Bot) -->
-  <!-- - a discord.js framework -->
-  <!-- - a process manager ([PMGO2](https://github.com/Pandaaa2507/PMGO2)) -->
-    
 ## 📖 How to reach me:
   - join my [Discord server](https://discord.gg/MMH4rpk)
 
